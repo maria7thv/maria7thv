@@ -1,16 +1,25 @@
 ## Hi there 👋
 
 <!--
-**maria7thv/maria7thv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Olá, eu sou a Maria Clara 👋
 
-Here are some ideas to get you started:
+## Sobre mim  
+Sou estudante de Análise e Desenvolvimento de Sistemas na Universidade Veiga de Almeida, atualmente no 3º período. Tenho paixão por tecnologia e programação, e estou sempre buscando aprender e crescer na área.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## Cursos e certificações  
+- Algoritmo e Lógica de Programação  
+- HTML, CSS, JavaScript (curso da Angela Yu)  
+- Pacote Office (Fundação Bradesco)  
+- Inglês técnico (nível intermediário)
+
+## Habilidades técnicas  
+- Linguagens: HTML, CSS, JavaScript, Python, SQL  
+- Ferramentas: Git, GitHub, VS Code ,  
+- Banco de dados: MySQL, PostgreSQL  
+- Metodologias ágeis: Scrum (básico)  
+- Outros: Microsoft Office, Power BI (básico)
+
+## Contato  
+- LinkedIn: [https://www.linkedin.com/in/mariaclarabacasi/](https://www.linkedin.com/in/mariaclarabacasi/)  
+- Email: clasilbap@outlook.com
 -->
